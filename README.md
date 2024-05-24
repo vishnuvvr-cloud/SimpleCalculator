@@ -69,5 +69,8 @@ We welcome contributions! Please follow these steps to contribute:
     ```
 5. **Create a Pull Request**.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact Information
 For support or questions, please contact [chintavishnuvardhan@gmail.com](mailto:chintavishnuvardhan@gmail.com).
