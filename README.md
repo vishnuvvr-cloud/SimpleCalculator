@@ -43,13 +43,13 @@ To use the Simple Calculator, follow these steps:
 6. **View the result** in the result text field.
 
 ### Example
-```plaintext
-# A GUI window will open
-# Enter First Number: 5
-# Enter Second Number: 3
-# Select Operation: Addition
-# Click "Calculate"
-# Result: 8
+
+- A GUI window will open
+- Enter First Number: 5
+- Enter Second Number: 3
+- Select Operation: Addition
+- Click "Calculate"
+- Result: 8
 
 ## Contributing
 We welcome contributions! Please follow these steps to contribute:
@@ -68,9 +68,6 @@ We welcome contributions! Please follow these steps to contribute:
     git push origin feature/your-feature-name
     ```
 5. **Create a Pull Request**.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 For support or questions, please contact [chintavishnuvardhan@gmail.com](mailto:chintavishnuvardhan@gmail.com).
